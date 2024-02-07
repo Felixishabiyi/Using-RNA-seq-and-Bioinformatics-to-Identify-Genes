@@ -17,7 +17,7 @@ Using RNA-seq and Bioinformatics to Identify Genes Linked to Drug Resistance and
 ## Methods
 
 ## Analysis Workflow
-![nf-core pipeline](Images/Nf core pipelines.jpg)
+![nf-core pipeline](https://github.com/Felixishabiyi/Using-RNA-seq-and-Bioinformatics-to-Identify-Genes/assets/62470103/c9e3d797-a21d-4aaf-b972-179823e1db88)
 
 ## Prerequisites for Analysis
 
