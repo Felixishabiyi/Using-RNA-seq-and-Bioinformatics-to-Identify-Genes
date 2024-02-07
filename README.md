@@ -1,4 +1,5 @@
-# Using RNA-seq and Bioinformatics to Identify Genes Linked to Drug Resistance and Virulence Factors in Non-typhoidal Salmonella
+# Using RNA-seq and Bioinformatics to Identify Genes in Non-typhoidal Salmonella
+Using RNA-seq and Bioinformatics to Identify Genes Linked to Drug Resistance and Virulence Factors in Non-typhoidal Salmonella
 
 # Table of Content
 1. [Background](#Background)
