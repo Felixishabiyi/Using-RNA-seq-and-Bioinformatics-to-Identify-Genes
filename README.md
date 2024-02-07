@@ -8,3 +8,18 @@
 5. [Prerequisites for Analysis](#Prerequisites-for-Analysis)
 6. [Pipeline Summary](#Pipeline-Summary)
 7. [Contributors](#Contributors)
+
+## Background
+
+## General Objectives
+
+## Methods
+
+## Analysis Workflow
+
+## Prerequisites for Analysis
+
+## Pipeline Summary
+
+## Contributors
+
